@@ -1,1 +1,0 @@
-print("Hello periode 2!")
